@@ -1,0 +1,2 @@
+activar tensorboard en el mismo directorio donde se encuentra el modelo:
+tensorboard --logdir=logs --port=5050
